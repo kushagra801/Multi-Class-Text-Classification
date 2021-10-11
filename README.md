@@ -5,7 +5,14 @@ The data is prepared by preprocessing and formatting the [kaggle dataset](https:
 
 ### Conclusions
 
-[Accuracy Comparison](https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png)
+<figure>
+  <img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' />
+  <figure-caption>Accuracy Comparison</figure-caption>
+</figure>
 
-[Loss Comparison](https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png)
+<figure>
+  <img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' />
+  <figure-caption>Loss comparison Comparison</figure-caption>
+</figure>
+
 
