@@ -11,7 +11,7 @@ The data is prepared by preprocessing and formatting the [kaggle dataset](https:
 
 
 <figure>
-  <centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' /></centre>
+  <centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png'></centre>
   <centre><figure-caption>Loss Comparison</figure-caption></centre>
 </figure>
 
