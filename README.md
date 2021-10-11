@@ -6,7 +6,7 @@ The data is prepared by preprocessing and formatting the [kaggle dataset](https:
 ### Conclusions
 
 
-<centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' /></centre>
+<centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png'></centre>
 <centre>Accuracy Comparison</centre>
 
 
