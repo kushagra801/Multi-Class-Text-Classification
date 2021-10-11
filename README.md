@@ -5,10 +5,10 @@ The data is prepared by preprocessing and formatting the [kaggle dataset](https:
 
 ### Conclusions
 
-<figure>
-  <centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' /></centre>
-  <centre><figure-caption>Accuracy Comparison</figure-caption></centre>
-</figure>
+
+<centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' /></centre>
+<centre>Accuracy Comparison</centre>
+
 
 <figure>
   <centre><img src='https://github.com/kushagra801/Multi-Class-Text-Classification/blob/main/accuracy_comparison.png' /></centre>
